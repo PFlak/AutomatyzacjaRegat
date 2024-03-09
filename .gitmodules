@@ -1,0 +1,6 @@
+[submodule "ARZ-App"]
+	path = ARZ-App
+	url = ../ARZ-App.git
+[submodule "ARZ-Server"]
+	path = ARZ-Server
+	url = ../ARZ-Server.git
